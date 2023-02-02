@@ -2,11 +2,14 @@
 A 360 Environment to view Boulders for Rock Climbing
 
 In this 360 Environment you can explore castle hill you can explore the walking track of castle hill and get some cool information of the protected park
-
 You can also check out the bouldering climbs of the area, both in 360 view & 3D Models.
-These models are have low poly count and small texture so that in the future it can be uploaded to a webapp, as the ZIP file is about 500 MB
 
-What I currently have below is the MVP (Minimum Viable Product) which you can explore castle hill and the boulders on a PC. This will be updated to support Mobile apps & be supported as a webapp.
+
+What I currently have below is the MVP (Minimum Viable Product) which you can explore castle hill and the boulders on a PC. 
+In the future I will want to expand the scope of Rocks available, retake images to a higher quality, get more angles for the reconstruction of boulders. 
+On the software side I want to make this app mobile friendly and to be accessed as a webapp rather than a .exe program.
+
+These models have low poly count and reduced textures so that in the future it can be uploaded to a webapp, as the ZIP file is about 500 MB. This maybe changed to support the higher Res versions for the .exe program rather than the webapp
 
 Alternative Link:
 https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=sharing
