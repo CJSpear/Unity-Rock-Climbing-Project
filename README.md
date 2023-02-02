@@ -1,8 +1,7 @@
 # Unity-Rock-Climbing-Project
 A 360 Environment to view Boulders for Rock Climbing
 
-
-Due to the project (ZIP) file being 500MB, I have attached a link to my Google Drive where you can download and run it.
+Alternative Link have attached a link to my Google Drive where you can download and run it.
 https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=sharing
 
 
@@ -13,7 +12,8 @@ These models are have low poly count and small texture so that in the future it 
 
 What I currently have below is the MVP (Minimum Viable Product) which you can explore castle hill and the boulders on a PC. This will be updated to support Mobile apps & be supported as a webapp.
 
-LINK
+Alternative Link:
+https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=sharing
 
 
 
