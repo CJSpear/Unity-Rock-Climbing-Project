@@ -1,10 +1,6 @@
 # Unity-Rock-Climbing-Project
 A 360 Environment to view Boulders for Rock Climbing
 
-Alternative Link have attached a link to my Google Drive where you can download and run it.
-https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=sharing
-
-
 In this 360 Environment you can explore castle hill you can explore the walking track of castle hill and get some cool information of the protected park
 
 You can also check out the bouldering climbs of the area, both in 360 view & 3D Models.
