@@ -1,8 +1,9 @@
 # Unity-Rock-Climbing-Project
 A 360 Environment to view Boulders for Rock Climbing
 
-In this 360 Environment you can explore castle hill you can explore the walking track of castle hill and get some cool information of the protected park
-You can also check out the bouldering climbs of the area, both in 360 view & 3D Models.
+Castle Hill is known for its world class bouldering & used for filming movies such as The Lion, the Witch and the Wardrobe. 
+In this 360 Environment you can take a tour castle hill get some cool information of the protected park
+You can also check out the bouldering climbs of the area, both in 360 panoramic views & as an interactable 3D Model.
 
 
 What I currently have below is the MVP (Minimum Viable Product) which you can explore castle hill and the boulders on a PC. 
