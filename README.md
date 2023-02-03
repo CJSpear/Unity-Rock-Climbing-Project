@@ -7,7 +7,7 @@ You can also check out the bouldering climbs of the area, both in 360 panoramic 
 
 
 What I currently have below is the MVP (Minimum Viable Product) which you can explore castle hill and the boulders on a PC. 
-In the future I will want to expand the scope of Rocks available, retake images to a higher quality, get more angles for the reconstruction of boulders. 
+In the future I will want to expand the scope of Rocks available, Rock locations & heights, retake images to a higher quality, get more angles for the reconstruction of boulders. 
 On the software side I want to make this app mobile friendly and to be accessed as a webapp rather than a .exe program.
 
 These models have low poly count and reduced textures so that in the future it can be uploaded to a webapp, as the ZIP file is about 500 MB. This may be changed to support the higher Res versions for the .exe program rather than the webapp
