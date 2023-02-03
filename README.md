@@ -12,6 +12,8 @@ On the software side I want to make this app mobile friendly and to be accessed 
 
 These models have low poly count and reduced textures so that in the future it can be uploaded to a webapp, as the ZIP file is about 500 MB. This may be changed to support the higher Res versions for the .exe program rather than the webapp
 
+How to use: Just download, extract Castle_Hill_App.zip file and run the .exe file
+
 Alternative Link:
 https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=sharing
 
