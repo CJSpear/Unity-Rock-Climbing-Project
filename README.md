@@ -23,12 +23,12 @@ How to use: Just download, extract Castle_Hill_App.zip file and run the .exe fil
 
 ----------------------------------------------------------
 
-# Unity-Rock-Climbing-Project VR Version (OLD!!)
+# Unity-Rock-Climbing-Project VR Version (Alpha)
 
 
 
 
-NOTE:  This was the prototype version, made to be run in VR.e.
+NOTE:  This was the prototype version, made to be run in a VR headset
 
 How to use: Just download, extract VR Castle Hill.zip file and run the .exe file
 
