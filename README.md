@@ -31,11 +31,10 @@ https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=shari
 
 
 
-NOTE:  This was the prototype version, made to be run in VR. Is it is not built, thus it is a large file.
+NOTE:  This was the prototype version, made to be run in VR.e.
 
+How to use: Just download, extract VR Castle Hill.zip file and run the .exe file
 
-Due to the project being larger than 2GB, I have attached a link to my Google Drive where you can download and preview it.
-https://drive.google.com/file/d/1AJTL2o70Kly0f37HfMT1jg9JfXUYTiwF/view?usp=sharing
 
 The aim of this project is to produce a 3D environment of Rock-Climbing Boulders.
 Currently when bouldering New Zealand it can be hard to figure out which climb is where and how to climb it using the guides given. Example (from a guide): Find the overhanging yellow prow. Sit start and climb straight up through good holds.
