@@ -14,9 +14,6 @@ These models have low poly count and reduced textures so that in the future it c
 
 How to use: Just download, extract Castle_Hill_App.zip file and run the .exe file
 
-Alternative Link:
-https://drive.google.com/file/d/1VniGPUdCjPUWP2YUFivoqu687trsnxg3/view?usp=sharing
-
 
 
 
