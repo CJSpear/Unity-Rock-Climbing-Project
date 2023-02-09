@@ -12,7 +12,14 @@ On the software side I want to make this app mobile friendly and to be accessed 
 
 These models have low poly count and reduced textures so that in the future it can be uploaded to a webapp, as the ZIP file is about 500 MB. This may be changed to support the higher Res versions for the .exe program rather than the webapp
 
-How to use: Just download, extract Castle_Hill_App.zip file and run the .exe file
+Applications used:
+  Unity: Creating the 3D environment, Scripting & building the application
+  Colmap & RealityCapture: For model reconstructions
+  Blender: For baking textures/models
+  Image Composite editor: Sitching Images 
+  Meshlab: Editing the models produced
+
+How to Run: Just download, extract Castle_Hill_App.zip file and run the .exe file
 
 
 
@@ -30,7 +37,7 @@ How to use: Just download, extract Castle_Hill_App.zip file and run the .exe fil
 
 NOTE:  This was the prototype version, made to be run in a VR headset
 
-How to use: Just download, extract VR Castle Hill.zip file and run the .exe file
+How to Run: Just download, extract VR Castle Hill.zip file and run the .exe file
 
 
 The aim of this project is to produce a 3D environment of Rock-Climbing Boulders.
