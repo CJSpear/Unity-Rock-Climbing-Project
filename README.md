@@ -18,7 +18,10 @@ Applications used:
   Blender: For baking textures/models
   Image Composite editor: Sitching Images 
   Meshlab: Editing the models produced
-
+  
+ Equipment used:
+  All images shot from my Iphone 8 & tripod
+  
 How to Run: Just download, extract Castle_Hill_App.zip file and run the .exe file
 
 
