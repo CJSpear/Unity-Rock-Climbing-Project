@@ -1,5 +1,6 @@
 # Unity-Rock-Climbing-Project
-A 360 Environment to view Boulders for Rock Climbing
+<strong> A 360 Environment to view Boulders for Rock Climbing </strong>
+<br />
 
 Castle Hill is known for its world class bouldering & used for filming movies such as The Lion, the Witch and the Wardrobe. 
 In this 360 Environment you can take a tour castle hill get some cool information of the protected park
@@ -11,18 +12,21 @@ In the future I will want to expand the scope of Rocks available, Rock locations
 On the software side I want to make this app mobile friendly and to be accessed as a webapp rather than a .exe program.
 
 These models have low poly count and reduced textures so that in the future it can be uploaded to a webapp, as the ZIP file is about 500 MB. This may be changed to support the higher Res versions for the .exe program rather than the webapp
+<br />
+<br />
 
-Applications used:
+<strong>Applications used: </strong>
   Unity: Creating the 3D environment, Scripting & building the application
   Colmap & RealityCapture: For model reconstructions
   Blender: For baking textures/models
   Image Composite editor: Sitching Images 
   Meshlab: Editing the models produced
   
- Equipment used:
+ <strong>Equipment used:</strong>
   All images shot from my Iphone 8 & tripod
   
-How to Run: Just download, extract Castle_Hill_App.zip file and run the .exe file
+<strong>How to Run: </strong>
+  Just download, extract Castle_Hill_App.zip file and run the .exe file
 
 
 
