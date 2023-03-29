@@ -1,4 +1,4 @@
-<strong> NOTICE - UPLOADING APP TO WEBSITE - WILL BE IN ACCESS SOON</strong>
+<strong>LINK TO SITE: http://cspear.pythonanywhere.com/ </strong>
 
 
 # Unity-Rock-Climbing-Project
